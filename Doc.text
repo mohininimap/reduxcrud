@@ -1,0 +1,19 @@
+npm install redux react-redux
+npm install redux-thunk
+--------------------
+combineReducers is a utility function provided by the Redux library that allows you to combine multiple reducer functions
+ into a single reducer. 
+ ->A utility function is a reusable and general-purpose function that is designed to perform a specific task 
+ or solve a particular problem. 
+------------------------------
+npm install formik
+-------------------
+npm install bootstrap
+------------------------
+echo "# reduxcrud" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mohininimap/reduxcrud.git
+git push -u origin main
